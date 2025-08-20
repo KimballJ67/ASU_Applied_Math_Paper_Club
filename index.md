@@ -1,4 +1,4 @@
-# ASU Applied Math Student Paper Club 
+# ASU Applied Math Paper Club 
 
 **Description and purpose:** Each week, a different member of the club presents the results of a recent applied math research paper to the rest of the club. That way, each club member only has to read one or two of the papers covered by the club but gets to learn about all of these papers. In addition to spreading knowledge, this will help students become better researchers and presenters. 
 
