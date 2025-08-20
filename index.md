@@ -15,4 +15,4 @@
 | 9/10/2025 | Kimball Johnston | TBA | 
 | 9/17/2025 | TBA | TBA | 
 
-For a list of papers suggested for the club to cover, visit <https://urldefense.com/v3/__https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl__;!!IKRxdwAv5BmarQ!fYa_4mZB-1WbitXf1VF687_Q1CguLdTImIRer2UwRN2vXFKZ9pDc2qECSBURR9GnlgcjTnXZdhnNZ-3rO5aYvZA75Q5rHcrxUx0$>.
+For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
