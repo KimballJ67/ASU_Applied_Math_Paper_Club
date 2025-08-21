@@ -1,6 +1,6 @@
-# ASU Applied Math Paper Club 
+# ASU Applied Math Paper Reading Group 
 
-**Description and purpose:** Each week, a different member of the club presents the results of a recent applied math research paper to the rest of the club. That way, each club member only has to read one or two of the papers covered by the club but gets to learn about all of these papers. In addition to spreading knowledge, this will help students become better researchers and presenters. 
+**Description and purpose:** Each week, a different member of the group presents the results of a recent applied math research paper to the rest of the group. That way, each group member only has to read one or two of the papers covered by the group but gets to learn about all of these papers. In addition to spreading knowledge, this will help students become better researchers and presenters. 
 
 **Meeting time and place:** Wednesdays from 9 to 10 a.m. in WXLR A202 
 
