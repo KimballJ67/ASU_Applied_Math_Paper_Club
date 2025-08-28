@@ -8,12 +8,12 @@
 
 ## Schedule 
 
-| Date | Presenter | Paper |
-| --- | --- | --- |
-| 8/27/2025 | N/A | Organizational and introductory meeting | 
-| 9/3/2025 | Jimmie Adriazola | [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) | 
-| 9/10/2025 | Kimball Johnston | TBA | 
-| 9/17/2025 | Break | None |
-| 9/24/2025 | Sébastien Motsch | TBA |
+| Date | Presenter | Paper | Additional resources |
+| --- | --- | --- | --- |
+| 8/27/2025 | N/A | Organizational and introductory meeting | [slides](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/8_27_2025/ASU_Journal_Club_Slides.pdf) |
+| 9/3/2025 | Jimmie Adriazola | [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) | TBA | 
+| 9/10/2025 | Kimball Johnston | TBA | TBA |
+| 9/17/2025 | Break | None | None |
+| 9/24/2025 | Sébastien Motsch | TBA | TBA |
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
