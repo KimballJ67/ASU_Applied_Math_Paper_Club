@@ -11,7 +11,7 @@
 | Date | Presenter | Paper |
 | --- | --- | --- |
 | 8/27/2025 | N/A | Organizational and introductory meeting | 
-| 9/3/2025 | Jimmie Adriazola | (Neural Operator: Learning Maps Between Function Spaces)[https://arxiv.org/abs/2108.08481] | 
+| 9/3/2025 | Jimmie Adriazola | [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) | 
 | 9/10/2025 | Kimball Johnston | TBA | 
 | 9/17/2025 | Break | None |
 | 9/24/2025 | Sébastien Motsch | TBA |
