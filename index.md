@@ -12,7 +12,7 @@
 | --- | --- | --- | --- |
 | 8/27/2025 | N/A | Organizational and introductory meeting | [slides](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/8_27_2025/ASU_Journal_Club_Slides.pdf) |
 | 9/3/2025 | Jimmie Adriazola | [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) | [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_3_2025/AMPD_UP_FNOs.pdf), [code](https://github.com/neuraloperator/neuraloperator), [Navier Stokes example](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_3_2025/navier_example.png)  | 
-| 9/10/2025 | Kimball Johnston | TBA | TBA |
+| 9/10/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | TBA |
 | 9/17/2025 | Break | None | None |
 | 9/24/2025 | Sébastien Motsch | TBA | TBA |
 | 10/1/2025 | Brandon Burkhardt | TBA | TBA | 
