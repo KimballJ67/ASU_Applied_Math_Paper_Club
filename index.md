@@ -14,7 +14,7 @@
 | 9/3/2025 | Jimmie Adriazola | [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) | [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_3_2025/AMPD_UP_FNOs.pdf), [code](https://github.com/neuraloperator/neuraloperator)  | 
 | 9/10/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_10_2025/9_10_2025_Notes.pdf) |
 | 9/17/2025 | Break | None | None |
-| 9/24/2025 | Sébastien Motsch | TBA | TBA |
+| 9/24/2025 | Sébastien Motsch | [The $25,000,000,000 Eigenvector: The Linear Algebra behind Google](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) | TBA |
 | 10/1/2025 | Brandon Burkhardt | TBA | TBA | 
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
